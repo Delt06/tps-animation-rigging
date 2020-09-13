@@ -1,0 +1,17 @@
+{
+    "name": "Validation.Editor",
+    "references": [
+        "GUID:29ab8676e1cf9134e8ba0394b7a8fb6a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
